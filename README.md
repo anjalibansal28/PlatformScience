@@ -21,7 +21,9 @@ Below instructions will help you download and install required software on Windo
     - Open link - https://repo.maven.apache.org/maven2/io/qameta/allure/allure-commandline/
     - And download the latest version .zip file
     - Unzip and copy the folder to desired directory
-    - Go to Control Panel ->System Variable and set path for allure bin folder
+    - Go to Control Panel ->System Variable and set path for allure bin folder.
+    
+    This link will help to understand more about the Allure installation - https://docs.qameta.io/allure/.
 
 ## Set up the project to run
 
