@@ -1,0 +1,1 @@
+request_endpoint = 'http://localhost:8080/v1/cleaning-sessions'
